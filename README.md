@@ -1,4 +1,4 @@
-**Todo List App**
+#Todo List App using React + TypeScript + Tailwind
 
 This repository contains a practice project developed with React.js, showcasing the implementation of a simple Todo List application. The project utilizes React components, hooks, and local storage to create an interactive and user-friendly todo list.
 
